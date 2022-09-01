@@ -4,4 +4,4 @@ NPM     : 2106750660
 
 Kelas   : B
 
-Hobi    : Bernapas
+Hobi    : Full turu mazzseehhh
